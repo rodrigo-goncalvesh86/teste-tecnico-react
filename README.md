@@ -17,11 +17,17 @@ A página inicial conta com:
 Ferramentas Utilizadas
 
 -Axios – Para realizar chamadas de API assíncronas.
+
 -@mui/material – Para estilização de componentes como cards, botões e barra de navegação, com flexibilidade para personalização.
+
 -useContext – Para facilitar o compartilhamento de dados entre componentes sem a necessidade de passar props manualmente.
+
 -useNavigate – Para navegação entre rotas de componentes funcionais.
+
 -useEffect – Para lidar com efeitos colaterais, como requisições à API.
+
 -useState – Para gerenciar estados de forma simplificada.
+
 -styled-components – Para aplicar estilos específicos a cada componente, utilizando CSS dentro do React.
 
 Decisões, Planejamento e Execução
@@ -43,7 +49,10 @@ Acesse o localhost e clique em "Seguir Link".
 Agora, na página:
 
 -O botão "Trocar Tema" alterna entre temas claro e escuro para os cards.
+
 -A barra de pesquisa permite buscar Pokémon pelo nome.
+
 -Os cards são clicáveis e levam para uma página com detalhes do Pokémon.
+
 -Os botões "Carregar + Pokémons" e "Carregar - Pokémons" ajustam a quantidade exibida.
 
