@@ -7,8 +7,11 @@ Funcionalidades
 A página inicial conta com:
 
 -Uma barra de pesquisa para encontrar um Pokémon específico pelo nome.
+
 -Até 10 cards clicáveis exibindo diferentes Pokémon.
+
 -Dois botões para carregar mais ou menos Pokémon na listagem.
+
 -Ao clicar em um card, o usuário é direcionado para uma nova página contendo informações detalhadas sobre o Pokémon selecionado, como nome, habilidades e tipo.
 
 Ferramentas Utilizadas
